@@ -8,8 +8,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="matthewhirai | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="matthewhirai | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p>
+    <a href="https://www.linkedin.com/in/matthew-hirai/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+    <a href="https://www.instagram.com/_m.hirai/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+</p>
 
 <br />
 
@@ -43,9 +45,3 @@
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
 </p>
----
-
-
-[website]: https://matthew-hirai.herokuapp.com/
-[instagram]: https://www.instagram.com/_m.hirai/
-[linkedin]: https://www.linkedin.com/in/matthew-hirai/
