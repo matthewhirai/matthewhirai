@@ -1,6 +1,6 @@
 ## Hi there, I'm Matthew 👋 
 
-### I'm a 3rd year computer science student at California State University, Long Beach
+### I'm a 4th year computer science student at California State University, Long Beach
 
 - 👯 I’m looking for a SWE internship 
 - 🥅 2022 Goals: Collaborate with others on projects and get a SWE internship!
