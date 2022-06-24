@@ -2,8 +2,7 @@
 
 ### I'm a 4th year computer science student at California State University, Long Beach
 
-- 👯 I’m looking for a SWE internship 
-- 🥅 2022 Goals: Collaborate with others on projects and get a SWE internship!
+- 🥅 2023 Goals: Collaborate with my team members on projects during my internship
 - ⚡ Fun fact: I love watching anime and going to the gym
 
 ### Connect with me:
