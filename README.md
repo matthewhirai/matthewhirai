@@ -43,6 +43,3 @@
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
 </p>
-
-### ⚡ Stats ⚡
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewhirai&layout=compact)](https://github.com/matthewhirai/github-readme-stats)
